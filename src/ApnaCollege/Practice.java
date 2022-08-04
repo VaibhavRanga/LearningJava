@@ -13,7 +13,7 @@ public class Practice {
             array[j+1] = current;
         }
         for(int i=0; i<array.length; i++) {
-            System.out.print(array[i] + " ");
+            System.out.print(array[i]);
         }
     }
 }
