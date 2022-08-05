@@ -10,7 +10,7 @@ public class Practice {
         String scanned = sc.next();     //to scan a word of type string
         System.out.print(scanned);
 
-        System.out.print("Enter your full name");
+        System.out.println("Enter your full name");
         String scanned4 = sc.nextLine();    //scans a whole line of type string
         System.out.println(scanned4);
 
