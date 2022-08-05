@@ -3,7 +3,7 @@ package ApnaCollege;
 import java.util.Scanner;
 
 public class L2VariablesDataTypesInputOutput {
-
+/*
     public static void main(String[] args) {
         byte number = 1;
         short number1 = 2;
@@ -30,7 +30,7 @@ public class L2VariablesDataTypesInputOutput {
         double r = p / (double) q;  // changing one of the variables from int to double to get output in double
         System.out.println(r);
 
-        float s = (float) (a * p / q + b);      //actual answer differs from the output because a, p and q are integers
+        float s = (float) (a + p / q * b);      //actual answer differs from the output because a, p and q are integers
         System.out.println(s);
 
         double t = Math.pow(2, 1.5);
@@ -39,6 +39,8 @@ public class L2VariablesDataTypesInputOutput {
         double u = 56.5 % 5;             // remainder operator; can be used as int and double
         System.out.println(u);
     }
+
+ */
 
 
 
@@ -53,7 +55,7 @@ public class L2VariablesDataTypesInputOutput {
 
      */
 
-    /*
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);        //scanner (input)
 
@@ -74,5 +76,5 @@ public class L2VariablesDataTypesInputOutput {
         System.out.println(x);
     }
 
-     */
+
 }
