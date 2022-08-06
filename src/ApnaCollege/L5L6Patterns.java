@@ -115,19 +115,20 @@ public class L5L6Patterns {
          */
 
 
-
-        /*int m = 5;
+/*
+        int m = 5;
         for(int i = 1; i <= m; i++) {               //1-0 triangle
             for(int j = 1; j <= i; j++) {
-                if((i+j) % 2 == 0) {
+                if((i+j) % 2 == 0)
                     System.out.print("1 ");
-                } else
+                else
                     System.out.print("0 ");
             }
             System.out.println();
         }
 
-         */
+ */
+
 
 
 
