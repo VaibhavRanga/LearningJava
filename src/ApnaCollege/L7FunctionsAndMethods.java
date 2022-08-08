@@ -19,7 +19,6 @@ public class L7FunctionsAndMethods {
 
 
 
-
     /*public static float calculateSum(float a, float b) {        //calculates the sum of two numbers
         float sum = a+b;
         return sum;
