@@ -62,10 +62,11 @@ public class L10Arrays {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of the array");          //takes in names in an array and then prints them
         int size = sc.nextInt();
+        String str12345 = sc.nextLine();
         String names[] = new String[size];
         System.out.println("Enter names");
         for (int i=0;i<size;i++) {
-            names[i] = sc.next();
+            names[i] = sc.nextLine();
         }
         for (int i=0;i<names.length;i++) {
             System.out.println("name " + (i+1) +" is : " + names[i]);
