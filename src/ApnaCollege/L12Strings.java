@@ -27,9 +27,9 @@ public class L12Strings {
         //if s1 < s2: -ve value will be returned by the compareTo function
         //e.g.
         //hello and wello      as w is greater than h it will return -ve value or s1 < s2
-        //aawello and aahello  as w is gerater than h it will return +ve value or s1 > s2
+        //aawello and aahello  as w is greater than h it will return +ve value or s1 > s2
 
-        if (name1.compareTo(name2) == 0) {                      // conpareTo function compares two strings
+        if (name1.compareTo(name2) == 0) {                      // compareTo function compares two strings
             System.out.println("Strings are equal");
         }
         else {
