@@ -62,7 +62,7 @@ public class L2VariablesDataTypesInputOutput {
         String scanned = sc.next();     //to scan a word of type string
         System.out.println(scanned);
 
-        String str12345 = sc.nextLine();    //this line is used after sc.next()/ sc.nextInt, float etc functions so that
+        String str12345 = sc.nextLine();    //this line is used after sc.next()/ sc.nextInt, nextFloat etc. functions so that
                                             // the next nextLine() could work properly
 
         String scanned4 = sc.nextLine();    //scans a whole line of type string
